@@ -133,7 +133,7 @@ jobs:
 ![image](https://github.com/UPT-FAING-EPIS/lab_ci_pruebas_01/assets/10199939/8ea2ac22-b40b-4067-9bf0-4b972a5eb313)
 
 14. En el navegador de internet, ingresar a la direcciòn generada en el paso 7, de Github Pages y se podrá visualizar el siguiente resultado:
-
+https://krcrimson.github.io/cps-u3-01-KrCrimson/#/document/Standalone
 <img width="699" height="338" alt="image" src="https://github.com/user-attachments/assets/c15e7823-68cf-4170-ba5f-81208a56b4ec" />
 
 <img width="1178" height="589" alt="image" src="https://github.com/user-attachments/assets/a20089f3-0060-4f72-a71b-d192968206aa" />
